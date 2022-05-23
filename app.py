@@ -16,4 +16,7 @@ def gpa():
 #todo: add in a home page, gpa, grade affect, save it to a server/database. 
 #todo: use jinja to create templates. 
 #todo: finish up the README markdown file
-#todo: far future create a sign up page + login page. 
+#todo: far future create a sign up page + login page.
+#todo: later create a system to take notes that will be on a contender with others. 
+#Open source???
+#todo: create a user saved page. 
