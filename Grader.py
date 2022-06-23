@@ -6,14 +6,10 @@ import math
 #Possible List use. 
 
 
-grades = {
-  #grades
-  "g1": 98,
-  "g2": 38
-}
-mGrades = {
-  #P followed by a number is the Points that is used.
-  "p1": 100,
-  "p2": 50
-}
+grades = [98,38,69]
 
+
+mGrades = [100,50,75]
+
+for i in grades:
+  print(i)
