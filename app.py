@@ -9,15 +9,15 @@ app = Flask('app')
 
 @app.route('/')
 def home():
-  return render_template('home.html')
+  return render_template('content/home.html')
 
 @app.route('/gpa')
 def gpa():
-  return render_template('gpa.html')
+  return render_template('dashboard/gpa.html')
 
 @app.route("/grader")
 def grader():
-  return render_template('grader.html')
+  return render_template('dashboard/grader.html')
 
 
 
