@@ -1,5 +1,5 @@
 # Winston Grader
-### By: Kiet Lai and Nathan Story
+### By: Kiet Lai, Nathan Story, and Jason Kimani
 
 ## Some basic info
 This is a project that is a **suite for students**.
