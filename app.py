@@ -9,7 +9,7 @@ from flask import Flask, render_template, request, flash, redirect, url_for
 #todo: finish up the README markdown file
 #todo: far future create a sign up page + login page.
 #todo: later create a system to take notes that will be on a contender with others. 
-#todo: create a user saved page. 
+#todo: create a user saved page.  
 #REMOVE post and get from all other methods
 #Open source???
 
